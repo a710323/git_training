@@ -3,3 +3,4 @@ A second line that'll commit to change_alice branch.
 A third line that'll committed to change_alice branch.
 A forth line that committed to master branch after we Add_Patrict.txt
 A fifth line that added on website and committed to master branch.
+A sixth line that added on website after resolve the conflict by hand after using stash.
