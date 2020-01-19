@@ -4,3 +4,4 @@ A third line that'll committed to change_alice branch.
 A forth line that committed to master branch after we Add_Patrict.txt
 A fifth line that added on website and committed to master branch.
 A sixth line that added in working directory, committed to master branch.(conflict resolved by hand)
+A seventh line added in rewrite_history branch and committed.
