@@ -6,3 +6,4 @@ A fifth line that added on website and committed to master branch.
 A sixth line that added in working directory, committed to master branch.(conflict resolved by hand)
 A seventh line added in newBranch and committed.
 A eighth line added in newBranch.
+A sixth line that added on website after resolve the conflict by hand after using stash.
